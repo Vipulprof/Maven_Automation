@@ -1,14 +1,22 @@
-# Maven_Automation
-Maven TestNG with Selenium is a potent combo for automated web testing. Maven handles builds, TestNG organizes tests, and Selenium drives web interactions. Together, they streamline testing, enabling robust automated tests and seamless integration with CI/CD pipelines.
+# 💫 About Me:
+I'm a QA engineer adept in manual and automation testing with development knowledge. Committed to enhancing software quality for seamless performance.
 
-# Using Data Providers in Selenium Tests- 
-A data provider is a handy tool in Selenium testing that allows you to supply test data dynamically. This means you can run the same test with multiple sets of data, which is especially useful for data-driven testing.
 
-How it works:
-Dynamic Data: Data providers allow you to pass different sets of data to your test methods.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v_i_p_u_ll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vipul Singh) 
 
-Reusability: You can reuse the same test logic with various inputs, promoting code efficiency and maintainability.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vipulprof&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vipulprof&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulprof&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Testing Frameworks: Data providers are commonly used with testing frameworks like TestNG and JUnit.
+---
+[![](https://visitcount.itsvg.in/api?id=Vipulprof&icon=0&color=0)](https://visitcount.itsvg.in)
 
-With data providers, your Selenium tests become more flexible and adaptable to different scenarios, enhancing the overall robustness of your testing suite.
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Vipulsingh866) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
